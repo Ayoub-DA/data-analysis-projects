@@ -1,4 +1,4 @@
-# data-analysis-projects
+
 # Data Analysis Projects
 
 Welcome to my data analysis projects repository! This repository contains various projects showcasing my skills in data analysis using different tools such as Excel, Tableau, PowerBI, Jupyter Notebook, and Salesforce.
@@ -58,6 +58,6 @@ Projects demonstrating data analysis using APIs.
 
 I am Ayoub, a data enthusiast with experience in various data analysis tools. This repository is a collection of my projects that showcase my skills and passion for data analysis. Feel free to explore the projects and reach out if you have any questions or opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-[Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/ayoub-achmir-a12590194/)
+[Email](ayoub.achmir01@gmail.com)
 
