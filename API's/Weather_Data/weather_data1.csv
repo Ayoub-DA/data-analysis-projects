@@ -1,0 +1,2 @@
+City,Temperature (K),Feels Like (K),Min Temperature (K),Max Temperature (K),Pressure (hPa),Humidity (%),Weather Description,Wind Speed (m/s),Wind Direction (degrees),Cloudiness (%),Country,Sunrise,Sunset
+Berlin,295.91,295.73,294.16,298.14,1007,57,broken clouds,7.15,297,75,DE,1719110619,1719171210
